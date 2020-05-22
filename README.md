@@ -1,5 +1,5 @@
 # Bacterial Biodiversity Dashboard
-![BacterialBiodiversityDashboard](readme-img/BBDashboard1.PNG)
+![BacterialBiodiversityDashboard](readme_img/BBDashboard1.PNG)
 
 # Description
 Evaluation of bacterial biodiversity on skin in a diverse groups of test subjects. Bacteria were isolated, cultured, identified
